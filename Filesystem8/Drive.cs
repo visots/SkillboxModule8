@@ -37,5 +37,14 @@ namespace Filesystem8
             DirectoryInfo directoryInfo = new DirectoryInfo(driveName);
             Console.WriteLine(directoryInfo.GetFiles().Length+ directoryInfo.GetDirectories().Length);
         }
+
+        public void DeleteFolder(string name, string storageName)
+        {
+            Folders.Add(name, new Folder());
+
+            DirectoryInfo dirInfo = new DirectoryInfo(storageName + name);
+            if (dirInfo.Exists)
+                dirInfo.Delete(true);
+        }
     }
 }

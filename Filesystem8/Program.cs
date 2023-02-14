@@ -14,6 +14,8 @@
             drive.CreateFolder("folder", storageName);
 
             Drive.GetRootFilesCount("C:\\");
+
+            
         }
     }
 }
