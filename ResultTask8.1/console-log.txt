@@ -1,0 +1,42 @@
+﻿Введи путь:
+C:\Users\visot\OneDrive\Рабочий стол\Folder
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1\Новый текстовый документ - копия (2).txt
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1\Новый текстовый документ - копия (3).txt
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1\Новый текстовый документ - копия (4).txt
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1\Новый текстовый документ - копия (5).txt
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1\Новый текстовый документ - копия (6).txt
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1\Новый текстовый документ - копия.txt
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1\Новый текстовый документ.txt
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder1
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder2
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder2\Новый текстовый документ (2).txt
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder2\Новый текстовый документ.txt
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder2
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder3
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder3\Новая папка
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder3\Новая папка\Новый текстовый документ.txt
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder3\Новая папка
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder3
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (2)
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (2)\Новый текстовый документ.txt
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (2)
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (3)
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (3)
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (4)
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (4)\Новый текстовый документ.txt
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4\Новая папка (4)
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder4
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder5
+Поиск в директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder5\Новая папка
+Удаление файла C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder5\Новая папка\Новый текстовый документ.txt
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder5\Новая папка
+Удаление директории C:\Users\visot\OneDrive\Рабочий стол\Folder\Folder5
+
+C:\Users\visot\source\repos\SkillFactory\SkillboxModule8\ResultTask8.1\bin\Debug\net6.0\ResultTask8.1.exe (процесс 14856) завершил работу с кодом 0.
+Чтобы автоматически закрывать консоль при остановке отладки, включите параметр "Сервис" ->"Параметры" ->"Отладка" -> "Автоматически закрыть консоль при остановке отладки".
+Нажмите любую клавишу, чтобы закрыть это окно:
