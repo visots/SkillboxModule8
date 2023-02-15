@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization8-4-3", "Seria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultTask8.1", "ResultTask8.1\ResultTask8.1.csproj", "{525CEAAC-1BF7-43B0-94BE-DDEA944A5EF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultTask8.2", "ResultTask8.2\ResultTask8.2.csproj", "{B0027D8A-A8AB-46FF-B481-782B2ACC7CD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{525CEAAC-1BF7-43B0-94BE-DDEA944A5EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{525CEAAC-1BF7-43B0-94BE-DDEA944A5EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{525CEAAC-1BF7-43B0-94BE-DDEA944A5EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0027D8A-A8AB-46FF-B481-782B2ACC7CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0027D8A-A8AB-46FF-B481-782B2ACC7CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0027D8A-A8AB-46FF-B481-782B2ACC7CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0027D8A-A8AB-46FF-B481-782B2ACC7CD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
