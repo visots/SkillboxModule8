@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ResultTask8.3": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\visot\\OneDrive\\Рабочий стол\\Folder\"",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
